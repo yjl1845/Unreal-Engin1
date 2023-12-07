@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Administrator/Desktop/Unreal-Engin1/UnrealClass/Content/Main.umap",
+				"C:/Users/Administrator/Desktop/Unreal-Engin1/UnrealClass/Content/Animation.uasset",
+				"C:/Users/Administrator/Desktop/Unreal-Engin1/UnrealClass/Content/E_Anista.uasset",
+				"C:/Users/Administrator/Desktop/Unreal-Engin1/UnrealClass/Content/E_AniStatus.uasset",
+				"C:/Users/Administrator/Desktop/Unreal-Engin1/UnrealClass/Content/F_Structure.uasset",
+				"C:/Users/Administrator/Desktop/Unreal-Engin1/UnrealClass/Content/F_Playerinfo.uasset",
+				"C:/Users/Administrator/Desktop/Unreal-Engin1/UnrealClass/Content/Randong.uasset",
+				"C:/Users/Administrator/Desktop/Unreal-Engin1/UnrealClass/Content/E_RCP.uasset",
 				"C:/Users/Administrator/Desktop/UnrealClass/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
