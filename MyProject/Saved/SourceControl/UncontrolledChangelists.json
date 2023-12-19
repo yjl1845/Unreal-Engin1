@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Administrator/Desktop/Unreal/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Administrator/Desktop/Unreal/MyProject/Content/BP_MyActor.uasset",
+				"C:/Users/Administrator/Desktop/Unreal/MyProject/Content/BP_MyPAW.uasset",
+				"C:/Users/Administrator/Desktop/Unreal/MyProject/Content/BP_MyPAWN.uasset",
+				"C:/Users/Administrator/Desktop/Unreal/MyProject/Content/Main.umap",
+				"C:/Users/Administrator/Desktop/Unreal/MyProject/Content/BP_MyCharactor.uasset",
+				"C:/Users/Administrator/Desktop/Unreal/MyProject/Content/BP_GameMode.uasset"
+			]
+		}
+	]
+}
